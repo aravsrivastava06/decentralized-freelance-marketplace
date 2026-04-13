@@ -1,6 +1,6 @@
 # Decentralized Freelance Marketplace
 
-A Web3-based escrow-driven freelance marketplace built using Solidity, Hardhat, React, and Ethers.js.
+A Web3 based escrow driven freelance marketplace built using Solidity, Hardhat, React, and Ethers.js.
 
 ---
 
@@ -57,10 +57,10 @@ https://decentralized-freelance-marketplace-iota.vercel.app/
 
 ## Future Scope
 
-- DAO-based dispute resolution  
+- DAO based dispute resolution  
 - Reputation system  
 - IPFS file storage  
-- Multi-chain support  
+- Multi chain support  
 
 ---
 
