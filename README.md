@@ -43,7 +43,7 @@ https://docs.google.com/presentation/d/1lqg7lGRfmf7Kl6OloWQfyMvjwacOhsPl/edit?us
 
 ## Live Demo
 
-https://decentralized-freelance-marketplace-iota.vercel.app/
+https://ecentralized-freelance-marketplace.vercel.app
 
 ---
 
