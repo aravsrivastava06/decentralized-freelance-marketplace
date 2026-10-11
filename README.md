@@ -37,7 +37,7 @@ This platform eliminates intermediaries in freelance hiring by using smart contr
 
 ## Presentation
 
-(https://docs.google.com/presentation/d/1wuK7p8YLfYp13vRbGY104mvJduouA9Sk/edit?slide=id.p1#slide=id.p1)
+https://docs.google.com/presentation/d/1lqg7lGRfmf7Kl6OloWQfyMvjwacOhsPl/edit?usp=sharing&ouid=102498120509470276155&rtpof=true&sd=true
 
 ---
 
